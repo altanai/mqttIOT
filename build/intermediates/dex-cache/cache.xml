@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/altanai/android-sdks/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/altanai/fractelWorks/AndroidMQTT/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_b43efef575663b6057a4252dae70879443ab98ff/classes.dex" />
+    </item>
+    <item
+        jar="/home/altanai/fractelWorks/AndroidMQTT/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="fd95c7c9e72c34d8900fcc124f5e7772eca13240">
+        <dex dex="/home/altanai/fractelWorks/AndroidMQTT/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e242f81af0a04cdff17b8abc9c92a1ac1f83bdd0/classes.dex" />
+    </item>
+    <item
+        jar="/home/altanai/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.0.2/11752d3f24d1a9deda4533a7ca18d8496417ceeb/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="/home/altanai/fractelWorks/AndroidMQTT/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.eclipse.paho.client.mqttv3-1.0.2_0f6f98ce7c929dbee8441946b987061f1bed5fd4/classes.dex" />
+    </item>
+    <item
+        jar="/home/altanai/fractelWorks/AndroidMQTT/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="1dfafa3177079c81a95f129b6feee68f534d7772">
+        <dex dex="/home/altanai/fractelWorks/AndroidMQTT/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7e927dc96c958d08a8cec4063a47232198f5b67d/classes.dex" />
+    </item>
+
+</items>

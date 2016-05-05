@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/altanai/fractelWorks/AndroidMQTT/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/altanai/fractelWorks/AndroidMQTT/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/altanai/fractelWorks/AndroidMQTT/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/arrow.png",
+        "source": "/home/altanai/fractelWorks/AndroidMQTT/app/src/main/res/drawable-ldpi/arrow.png"
+    }
+]
